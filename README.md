@@ -5,6 +5,7 @@
 
 - [音樂事工](#音樂事工)
 - [頻道](#頻道)
+- [其他資源](#其他資源)
 
 ### 音樂事工
 - **[讚美之泉](https://www.sop.org/)**
@@ -25,3 +26,8 @@
 - **[敬拜教學 | Amen Signal阿們信號](https://www.youtube.com/watch?v=uFmD3qA1eEI&list=PLvX0rKJQikU4-o47GUCr5gEffECM9RpJv)**
 
   一群樂於分享的基督徒，透過創作詩歌、短片...等，把祝福的種子傳遞到世界各地。願全地都發出讚美主的「Amen Signal 阿們信號」！！！
+
+### App / 網站
+
+### 其他資源
+- **[青年聖歌 I](http://www.christianstudy.com/youth_hymns_1.html)**
