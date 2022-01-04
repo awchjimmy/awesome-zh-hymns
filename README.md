@@ -29,6 +29,10 @@
   一群樂於分享的基督徒，透過創作詩歌、短片...等，把祝福的種子傳遞到世界各地。願全地都發出讚美主的「Amen Signal 阿們信號」！！！
 
 ### App / 網站
+- **[赞美诗网](https://www.zanmeishige.com/)**
+
+  赞美诗网（赞！）是一个免费在线听歌的非盈利型音乐平台。
+
 
 ### 其他資源
 - **[青年聖歌 I](http://www.christianstudy.com/youth_hymns_1.html)**
