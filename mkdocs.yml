@@ -1,0 +1,9 @@
+site_name: awesome 中文詩歌
+site_url: https://awesome-zh-hymns.web.app/
+theme:
+  name: material
+  language: zh-TW
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
